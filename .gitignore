@@ -1,0 +1,28 @@
+# Compiled class files
+*.class
+
+
+# Package Files #
+*.jar
+
+# === IDEs ===
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+
+# VS Code
+.vscode/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Other
+.DS_Store
+
